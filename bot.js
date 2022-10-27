@@ -71,6 +71,8 @@ function createBot() {
          bot.setControlState('jump', true);
          if (config.utils['anti-afk'].sneak) {
             bot.setControlState('sneak', true);
+            if (config.utils['right-click'].right-click) {
+            bot.setControlState('right-click', true);
          }
       }
    });
