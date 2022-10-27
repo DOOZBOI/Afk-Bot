@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "chela",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Doozboiop.aternos.me",
+    "port": 26420,
     "version": "1.17.1"
   },
 
@@ -35,10 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
+        "I'm a faltu player ",
+        "Doozboi mera papa h ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
       ]
     },
 
